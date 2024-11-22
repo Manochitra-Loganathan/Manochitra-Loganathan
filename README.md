@@ -47,7 +47,14 @@ I’m Mano, a data storyteller passionate about uncovering insights and driving 
 
 #### **Cloud Platforms**  
 - AWS (Redshift, S3)  
-- Google Cloud (BigQuery, Looker)  
+- Google Cloud (BigQuery, Looker)
+
+## 📊 Key Projects  
+### [Real Estate Market Analysis](https://github.com/username/project-link)  
+- **Objective:** Build a dashboard to analyze real estate trends, including property prices, demand patterns, and market growth.  
+- **Tools Used:** Power BI, Python (Pandas, Matplotlib), SQL, Power BI  
+- **Results:** Provided actionable insights into market hotspots, price trends, and buyer preferences, improving client decision-making efficiency by 30%.
+
 
 
 
