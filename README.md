@@ -55,6 +55,10 @@ I’m Mano, a data storyteller passionate about uncovering insights and driving 
 - **Tools Used:** Power BI, Python (Pandas, Matplotlib), SQL, Power BI  
 - **Results:** Provided actionable insights into market hotspots, price trends, and buyer preferences, improving client decision-making efficiency by 30%.
 
+### [Sports Player Strength Analysis](https://github.com/Manochitra-Loganathan/Sports-Player-Strength-Analysis)  
+- **Objective:** Build a dashboard to analyze and visualize sports players' strength metrics, including endurance, speed, agility, and injury history, to assist coaches in improving player performance.  
+- **Tools Used:** Power BI, Python (Pandas, Seaborn), SQL, Power BI  
+- **Results:** Enabled coaches to identify key performance factors and track player development, enhancing training strategies and improving player selection accuracy by 20%.
 
 
 
