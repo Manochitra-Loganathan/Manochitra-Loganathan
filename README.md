@@ -50,7 +50,7 @@ I’m Mano, a data storyteller passionate about uncovering insights and driving 
 - Google Cloud (BigQuery, Looker)
 
 ## 📊 Key Projects  
-### [Real Estate Market Analysis](https://github.com/username/project-link](https://github.com/Manochitra-Loganathan/Real-Estate-Market-Analysis.git)  
+### [Real Estate Market Analysis](https://github.com/Manochitra-Loganathan/Real-Estate-Market-Analysis)  
 - **Objective:** Build a dashboard to analyze real estate trends, including property prices, demand patterns, and market growth.  
 - **Tools Used:** Power BI, Python (Pandas, Matplotlib), SQL, Power BI  
 - **Results:** Provided actionable insights into market hotspots, price trends, and buyer preferences, improving client decision-making efficiency by 30%.
