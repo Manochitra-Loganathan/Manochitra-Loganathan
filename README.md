@@ -18,6 +18,12 @@ I’m Mano, a data storyteller passionate about uncovering insights and driving 
 ![Excel](https://img.shields.io/badge/-Excel-217346?logo=microsoft-excel&logoColor=white)  
 
 
+### Skills  
+- **Programming:** Python, R, SQL  
+- **Visualization:** Power BI, Tableau, Matplotlib  
+- **Tools:** Jupyter, Excel, GIS  
+
+
 
 
 
