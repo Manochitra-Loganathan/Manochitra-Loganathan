@@ -60,6 +60,11 @@ I’m Mano, a data storyteller passionate about uncovering insights and driving 
 - **Tools Used:** Power BI, Python (Pandas, Seaborn), SQL, Power BI  
 - **Results:** Enabled coaches to identify key performance factors and track player development, enhancing training strategies and improving player selection accuracy by 20%.
 
+  ### [Financial Analysis Dashboard - Product Sales Store Wise](https://github.com/Manochitra-Loganathan/Sports-Player-Strength-Analysis)  
+- **Objective:** Build a financial analysis dashboard to track product sales performance across different stores, focusing on revenue, profitability, and sales trends over time.
+- **Tools Used:** Power BI, Python (Pandas, Matplotlib), SQL, Power BI  
+- **Results:** Provided insights into top-performing stores and products, identifying sales trends and profit margins, leading to a 15% increase in overall sales and better resource allocation across stores.
+
 
 
 
