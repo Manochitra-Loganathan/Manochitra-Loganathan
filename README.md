@@ -4,6 +4,9 @@ I’m Mano, a data storyteller passionate about uncovering insights and driving 
 ![Banner](./banner.png)
 
 
+[🌐 Portfolio]( https://manochitra-loganathan.github.io/Manochitra-The-Analyst.github.io/) | [💼 LinkedIn]((https://www.linkedin.com/in/manochitraloganathan/)) | [📧 Email Me](manochitra.official@gmail.com)
+
+
 
 <!--
 **Manochitra-Loganathan/Manochitra-Loganathan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
