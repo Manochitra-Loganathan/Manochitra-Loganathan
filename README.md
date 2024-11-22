@@ -19,9 +19,36 @@ I’m Mano, a data storyteller passionate about uncovering insights and driving 
 
 
 ### Skills  
-- **Programming:** Python, R, SQL  
-- **Visualization:** Power BI, Tableau, Matplotlib  
-- **Tools:** Jupyter, Excel, GIS  
+
+#### **Programming**  
+- Python (Pandas, NumPy, Scikit-learn)  
+- R (dplyr, ggplot2)  
+- SQL (PostgreSQL, MySQL)  
+
+#### **Data Visualization**  
+- Power BI, Tableau  
+- Matplotlib, Seaborn, Plotly  
+
+#### **Data Manipulation & Analysis**  
+- Excel (Advanced Functions, VBA)  
+- ETL Tools (Alteryx, Talend)  
+- Data Wrangling (Pandas, R tidyverse)  
+
+#### **Tools and Platforms**  
+- Jupyter Notebook, Google Sheets  
+- GIS (ArcGIS, QGIS)  
+- Snowflake, BigQuery  
+
+#### **Database Management**  
+- MongoDB, Microsoft SQL Server  
+
+#### **Statistical Analysis & Data Modeling**  
+- Regression, Hypothesis Testing, Forecasting  
+
+#### **Cloud Platforms**  
+- AWS (Redshift, S3)  
+- Google Cloud (BigQuery, Looker)  
+
 
 
 
