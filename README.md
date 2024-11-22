@@ -11,6 +11,12 @@ I’m Mano, a data storyteller passionate about uncovering insights and driving 
 
 ![SQL](https://img.shields.io/badge/-SQL-336791?logo=postgresql&logoColor=white)  
 ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?logo=power-bi&logoColor=white)
+![Tableau](https://img.shields.io/badge/-Tableau-E97627?logo=tableau&logoColor=white)  
+![Snowflake](https://img.shields.io/badge/-Snowflake-29B5E8?logo=snowflake&logoColor=white)  
+![SQL](https://img.shields.io/badge/-SQL-336791?logo=postgresql&logoColor=white)  
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)  
+![Excel](https://img.shields.io/badge/-Excel-217346?logo=microsoft-excel&logoColor=white)  
+
 
 
 
