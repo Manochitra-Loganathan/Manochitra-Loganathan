@@ -40,7 +40,7 @@ I’m Mano, a data storyteller passionate about uncovering insights and driving 
 - Snowflake, BigQuery  
 
 #### **Database Management**  
-- MongoDB, Microsoft SQL Server  
+- MongoDB, Microsoft SQL Server , MySQL, PostgreSQL, Oracle, MSSQL, DB2, RDS, Azure SQL
 
 #### **Statistical Analysis & Data Modeling**  
 - Regression, Hypothesis Testing, Forecasting  
