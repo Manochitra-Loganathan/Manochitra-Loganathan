@@ -1,4 +1,8 @@
-## Hi there 👋
+# Hi there! 👋  
+I’m Mano, a data storyteller passionate about uncovering insights and driving impactful decisions.  
+
+![Banner](C:\Users\Manochitra\Downloads\banner.png)
+
 
 <!--
 **Manochitra-Loganathan/Manochitra-Loganathan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
