@@ -1,7 +1,8 @@
 # Hi there! 👋  
 I’m Mano, a data storyteller passionate about uncovering insights and driving impactful decisions.  
 
-![Banner](C:\Users\Manochitra\Downloads\banner.png)
+![Banner](./banner.png)
+
 
 
 <!--
