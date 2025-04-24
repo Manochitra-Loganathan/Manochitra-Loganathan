@@ -14,6 +14,10 @@ I’ve led projects that span:
 - 🛠️ Automation of ETL pipelines, monitoring, and failovers  
 - 📊 Real-time reporting systems using Q Replication and CDC  
 - 🤝 Collaboration with developers, analysts, and infrastructure teams to deliver production-ready solutions
+- - 🚀 Cloud migration (Oracle, Db2 → PostgreSQL, Snowflake)
+- 🧩 BI automation using **SSIS, Power BI, SSRS, Informatica**
+- ⚙️ CI/CD for databases (SSDT, Azure DevOps, ServiceNow)
+- 📊 Dashboard design, performance tuning, and metric design
 
 ---
 
@@ -36,9 +40,14 @@ I’ve led projects that span:
 
 ## 📌 Featured Projects
 
-[![HA/DR Setup](https://github-readme-stats.vercel.app/api/pin/?username=Manochitra-Loganathan&repo=ha-replication-setup-financial-db)](https://github.com/Manochitra-Loganathan/ha-replication-setup-financial-db)
+
 
 [![Cloud Migration](https://github-readme-stats.vercel.app/api/pin/?username=Manochitra-Loganathan&repo=cloud-database-migration-azure-aws)](https://github.com/Manochitra-Loganathan/cloud-database-migration-azure-aws)
+
+[![HA/DR Setup](https://github-readme-stats.vercel.app/api/pin/?username=Manochitra-Loganathan&repo=ha-replication-setup-financial-db)](https://github.com/Manochitra-Loganathan/ha-replication-setup-financial-db)
+
+[![BI Automation](https://github-readme-stats.vercel.app/api/pin/?username=Manochitra-Loganathan&repo=bi-automation-powerbi-ssis-ssrs)](https://github.com/Manochitra-Loganathan/bi-automation-powerbi-ssis-ssrs)
+
 
 [![DevOps DB Pipeline](https://github-readme-stats.vercel.app/api/pin/?username=Manochitra-Loganathan&repo=devops-db-pipeline-cicd-ssdt)](https://github.com/Manochitra-Loganathan/devops-db-pipeline-cicd-ssdt)
 
