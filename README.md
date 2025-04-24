@@ -18,6 +18,8 @@ I’ve led projects that span:
 - ## 🧩 My Expertise
 
 - Enterprise Database Engineering across Oracle, Db2, PostgreSQL, SQL Server, and MySQL
+- 
+- 🔐 Compliance Expertise: SOX (finance), HIPAA (health), PCI DSS (payment)
 
 - High Availability & Disaster Recovery: HADR, AlwaysOn, and Q Replication implementations
 
