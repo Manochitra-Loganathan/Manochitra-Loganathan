@@ -14,10 +14,19 @@ I’ve led projects that span:
 - 🛠️ Automation of ETL pipelines, monitoring, and failovers  
 - 📊 Real-time reporting systems using Q Replication and CDC  
 - 🤝 Collaboration with developers, analysts, and infrastructure teams to deliver production-ready solutions
-- - 🚀 Cloud migration (Oracle, Db2 → PostgreSQL, Snowflake)
+----
+- ## 🧩 My Expertise
+
+- Database engineering across Oracle, Db2, PostgreSQL, SQL Server, MySQL  
+- HA/DR setups using HADR, AlwaysOn, Q Replication  
+- CI/CD pipelines for databases using SSDT, Azure DevOps, and ServiceNow  
+- Data migrations from legacy to cloud (AWS, Azure, GCP)  
+- Performance tuning, rollback automation, and audit readiness
+- 🚀 Cloud migration (Oracle, Db2 → PostgreSQL, Snowflake)
 - 🧩 BI automation using **SSIS, Power BI, SSRS, Informatica**
 - ⚙️ CI/CD for databases (SSDT, Azure DevOps, ServiceNow)
 - 📊 Dashboard design, performance tuning, and metric design
+- 🚦 Data Quality & Monitoring: SQL, Python, Splunk, Dynatrace  
 
 ---
 
@@ -57,26 +66,15 @@ I’ve led projects that span:
 ---
 ---
 
-## 🧩 My Expertise
 
-- Database engineering across Oracle, Db2, PostgreSQL, SQL Server, MySQL  
-- HA/DR setups using HADR, AlwaysOn, Q Replication  
-- CI/CD pipelines for databases using SSDT, Azure DevOps, and ServiceNow  
-- Data migrations from legacy to cloud (AWS, Azure, GCP)  
-- Performance tuning, rollback automation, and audit readiness
 
 ---
 
 ## 📫 Let's Connect
 
-💬 Open to senior-level opportunities in **database architecture, DevOps for data, or cloud data strategy**.  
+💬 Open to leadership roles, senior-level opportunities in **database architecture,Database Engineering, Data Platform Strategy  or Cloud Migration , DevOps for data, or cloud data strategy Delivery**.   
 🔗 [LinkedIn](https://www.linkedin.com/in/manochitraloganathan)
 
 ---
 
-## 📫 Let’s Connect
 
-📍 Open to leadership roles in **Database Engineering, Data Platform Strategy, or Cloud Migration Delivery**.  
-🔗 [LinkedIn](https://www.linkedin.com/in/manochitraloganathan)
-
----
