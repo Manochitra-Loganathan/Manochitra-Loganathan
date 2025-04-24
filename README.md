@@ -63,6 +63,8 @@ I’ve led projects that span:
 
 [![DevOps DB Pipeline](https://github-readme-stats.vercel.app/api/pin/?username=Manochitra-Loganathan&repo=devops-db-pipeline-cicd-ssdt)](https://github.com/Manochitra-Loganathan/devops-db-pipeline-cicd-ssdt)
 
+[![Data Validation](https://github-readme-stats.vercel.app/api/pin/?username=Manochitra-Loganathan&repo=data-validation-framework-sql-python)](https://github.com/Manochitra-Loganathan/data-validation-framework-sql-python)
+
 ---
 ---
 
