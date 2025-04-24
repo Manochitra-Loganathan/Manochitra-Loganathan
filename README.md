@@ -70,7 +70,7 @@ I’ve led projects that span:
 
 [![Data Validation](https://github-readme-stats.vercel.app/api/pin/?username=Manochitra-Loganathan&repo=data-validation-framework-sql-python)](https://github.com/Manochitra-Loganathan/data-validation-framework-sql-python)
 
-- 🤖 [Fair AI Pipeline (Databricks + AIF360 + Power BI)](https://github.com/Manochitra-Loganathan/fair-ai-pipeline-llm-databricks)
+[![Fair AI Pipeline (Databricks + AIF360 + Power BI)](https://github.com/Manochitra-Loganathan/fair-ai-pipeline-llm-databricks)
 
 ---
 ---
