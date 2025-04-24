@@ -35,6 +35,9 @@ I’ve led projects that span:
 ![Azure DevOps](https://img.shields.io/badge/Azure-DevOps-blue?logo=azuredevops)
 ![PowerShell](https://img.shields.io/badge/PowerShell-Automation-lightblue)
 ![ServiceNow](https://img.shields.io/badge/ServiceNow-Ticketing-black?logo=servicenow)
+![Power BI](https://img.shields.io/badge/Power--BI-Analytics-yellow?logo=powerbi)
+![SSIS](https://img.shields.io/badge/SSIS-ETL-blue?logo=microsoftsqlserver)
+![SSRS](https://img.shields.io/badge/SSRS-Reporting-lightblue?logo=microsoftsqlserver)
 
 ---
 
