@@ -1,41 +1,47 @@
-![Banner](./banner.png) <!-- Optional if you upload one -->
+# 👋 Hi, I'm Manochitra Loganathan
 
-# 👋 Hello, I'm Manochitra Loganathan
-
-🧠 **Principal Database Engineer | Cloud Migration Strategist | Data Infrastructure Leader**  
-📍 Auckland, New Zealand | 🔍 Open to Leadership Roles in Data Platform & Database Engineering
+🧠 **Database Delivery Lead | Cloud Migration Strategist | High Availability Specialist**  
+📍 Based in Auckland, New Zealand | 🌍 Open to Remote & Hybrid Roles
 
 ---
 
-With over **12 years of experience** leading database operations and transformation projects across Oracle, Db2, PostgreSQL, and MongoDB, I’ve helped enterprises **modernize, scale, and secure their data ecosystems** — from legacy systems to cloud-native platforms.
+With over **12 years of experience**, I specialize in **end-to-end database solutions** — from gathering business requirements to delivering secure, high-performance systems across Oracle, Db2, SQL Server, PostgreSQL, and modern cloud platforms like AWS, Azure, GCP, and Snowflake.
 
-🛠️ **What sets me apart:**  
-- I lead **end-to-end database modernization**, from architecture planning to production rollout.  
-- I’ve mentored teams and set standards for **migration readiness**, **HA/DR**, and **data integrity validation**.  
-- I bring strong hands-on skills — but I think and deliver like a **solution owner**.
+I’ve led projects that span:
 
----
-
-## 🚀 Current Focus Areas
-
-- Designing **multi-region, cross-cloud database architectures** with rollback and audit layers  
-- Leading **automated migration pipelines** with performance tuning and downtime minimization  
-- Coaching junior DBAs and analysts on **cloud data strategy and operational excellence**
+- 📌 Enterprise database architecture & HA/DR setups  
+- 🚀 Migration from legacy to cloud-native databases  
+- 🛠️ Automation of ETL pipelines, monitoring, and failovers  
+- 📊 Real-time reporting systems using Q Replication and CDC  
+- 🤝 Collaboration with developers, analysts, and infrastructure teams to deliver production-ready solutions
 
 ---
 
-## 📌 Featured Project: Cloud Migration Strategy
+## 🔧 Tools I Work With
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Manochitra-Loganathan&repo=cloud-database-migration-azure-aws)](https://github.com/Manochitra-Loganathan/cloud-database-migration-azure-aws)
-
-This project walks through my leadership in:
-- Migrating Oracle and Db2 workloads to PostgreSQL + MongoDB  
-- Using AWS DMS, Azure Blob, and automated rollback pipelines  
-- Delivering a solution with **resilience, traceability, and performance in mind**
+![Db2](https://img.shields.io/badge/Db2-11.5-blue?logo=ibm)
+![Oracle](https://img.shields.io/badge/Oracle-19c-red?logo=oracle)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-15-blue?logo=postgresql)
+![MySQL](https://img.shields.io/badge/MySQL-8.0-blue?logo=mysql)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-2019-red?logo=microsoftsqlserver)
+![Snowflake](https://img.shields.io/badge/Snowflake-Cloud--Data-blue?logo=snowflake)
+![AWS](https://img.shields.io/badge/AWS-Data--Migration-orange?logo=amazonaws)
+![Azure](https://img.shields.io/badge/Azure-SQL%20Database-blue?logo=microsoftazure)
+![GCP](https://img.shields.io/badge/GCP-BigQuery-yellow?logo=googlecloud)
 
 ---
 
-📫 Let's Connect:  
-I’m exploring **senior/principal database roles**, **cloud platform leadership**, or **strategic migration consulting** roles — in New Zealand or remote.
+## 📌 Featured Projects
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/manochitraloganathan)
+[![HA/DR Setup](https://github-readme-stats.vercel.app/api/pin/?username=Manochitra-Loganathan&repo=ha-replication-setup-financial-db)](https://github.com/Manochitra-Loganathan/ha-replication-setup-financial-db)
+
+[![Cloud Migration](https://github-readme-stats.vercel.app/api/pin/?username=Manochitra-Loganathan&repo=cloud-database-migration-azure-aws)](https://github.com/Manochitra-Loganathan/cloud-database-migration-azure-aws)
+
+---
+
+## 📫 Let’s Connect
+
+📍 Open to leadership roles in **Database Engineering, Data Platform Strategy, or Cloud Migration Delivery**.  
+🔗 [LinkedIn](https://www.linkedin.com/in/manochitraloganathan)
+
+---
