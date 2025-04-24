@@ -18,7 +18,7 @@ I’ve led projects that span:
 - ## 🧩 My Expertise
 
 - Enterprise Database Engineering across Oracle, Db2, PostgreSQL, SQL Server, and MySQL
-- 
+- 🔁 Led Oracle → PostgreSQL + MySQL → AuroraDB migrations
 - 🔐 Compliance Expertise: SOX (finance), HIPAA (health), PCI DSS (payment)
 
 - High Availability & Disaster Recovery: HADR, AlwaysOn, and Q Replication implementations
@@ -61,7 +61,8 @@ I’ve led projects that span:
 
 ## 📌 Featured Projects
 
-
+### 🔁 [Oracle & MySQL to Aurora Migration – CDW](https://github.com/Manochitra-Loganathan/oracle-mysql-to-aurora-migration-cdw)
+Real-world enterprise migration with rollback, validation, and high availability.
 
 [![Cloud Migration](https://github-readme-stats.vercel.app/api/pin/?username=Manochitra-Loganathan&repo=cloud-database-migration-azure-aws)](https://github.com/Manochitra-Loganathan/cloud-database-migration-azure-aws)
 
