@@ -28,6 +28,9 @@ I’ve led projects that span:
 ![AWS](https://img.shields.io/badge/AWS-Data--Migration-orange?logo=amazonaws)
 ![Azure](https://img.shields.io/badge/Azure-SQL%20Database-blue?logo=microsoftazure)
 ![GCP](https://img.shields.io/badge/GCP-BigQuery-yellow?logo=googlecloud)
+![Azure DevOps](https://img.shields.io/badge/Azure-DevOps-blue?logo=azuredevops)
+![PowerShell](https://img.shields.io/badge/PowerShell-Automation-lightblue)
+![ServiceNow](https://img.shields.io/badge/ServiceNow-Ticketing-black?logo=servicenow)
 
 ---
 
@@ -36,6 +39,26 @@ I’ve led projects that span:
 [![HA/DR Setup](https://github-readme-stats.vercel.app/api/pin/?username=Manochitra-Loganathan&repo=ha-replication-setup-financial-db)](https://github.com/Manochitra-Loganathan/ha-replication-setup-financial-db)
 
 [![Cloud Migration](https://github-readme-stats.vercel.app/api/pin/?username=Manochitra-Loganathan&repo=cloud-database-migration-azure-aws)](https://github.com/Manochitra-Loganathan/cloud-database-migration-azure-aws)
+
+[![DevOps DB Pipeline](https://github-readme-stats.vercel.app/api/pin/?username=Manochitra-Loganathan&repo=devops-db-pipeline-cicd-ssdt)](https://github.com/Manochitra-Loganathan/devops-db-pipeline-cicd-ssdt)
+
+---
+---
+
+## 🧩 My Expertise
+
+- Database engineering across Oracle, Db2, PostgreSQL, SQL Server, MySQL  
+- HA/DR setups using HADR, AlwaysOn, Q Replication  
+- CI/CD pipelines for databases using SSDT, Azure DevOps, and ServiceNow  
+- Data migrations from legacy to cloud (AWS, Azure, GCP)  
+- Performance tuning, rollback automation, and audit readiness
+
+---
+
+## 📫 Let's Connect
+
+💬 Open to senior-level opportunities in **database architecture, DevOps for data, or cloud data strategy**.  
+🔗 [LinkedIn](https://www.linkedin.com/in/manochitraloganathan)
 
 ---
 
