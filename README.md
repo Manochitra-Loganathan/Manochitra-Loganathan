@@ -61,8 +61,7 @@ I’ve led projects that span:
 
 ## 📌 Featured Projects
 
-### 🔁 [Oracle & MySQL to Aurora Migration – CDW](https://github.com/Manochitra-Loganathan/oracle-mysql-to-aurora-migration-cdw)
-Real-world enterprise migration with rollback, validation, and high availability.
+[![Oracle & MySQL to Aurora Migration – CDW](https://github-readme-stats.vercel.app/api/pin/?username=Manochitra-Loganathan&repo=oracle-mysql-to-aurora-migration-cdw)](https://github.com/Manochitra-Loganathan/oracle-mysql-to-aurora-migration-cdw)
 
 [![Cloud Migration](https://github-readme-stats.vercel.app/api/pin/?username=Manochitra-Loganathan&repo=cloud-database-migration-azure-aws)](https://github.com/Manochitra-Loganathan/cloud-database-migration-azure-aws)
 
@@ -75,7 +74,9 @@ Real-world enterprise migration with rollback, validation, and high availability
 
 [![Data Validation](https://github-readme-stats.vercel.app/api/pin/?username=Manochitra-Loganathan&repo=data-validation-framework-sql-python)](https://github.com/Manochitra-Loganathan/data-validation-framework-sql-python)
 
-[![Fair AI Pipeline (Databricks + AIF360 + Power BI)](https://github.com/Manochitra-Loganathan/fair-ai-pipeline-llm-databricks)
+[![Fair AI Pipeline (Databricks + AIF360 + Power BI](https://github-readme-stats.vercel.app/api/pin/?username=Manochitra-Loganathan&repo=fair-ai-pipeline-llm-databricks)](https://github.com/Manochitra-Loganathan/fair-ai-pipeline-llm-databricks)
+
+
 
 ---
 ---
