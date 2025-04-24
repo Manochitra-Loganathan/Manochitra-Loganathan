@@ -32,6 +32,8 @@ I’ve led projects that span:
 - Monitoring & QA Frameworks: Proactive data quality checks using SQL, Python, Splunk, and Dynatrace
 
 - Dashboard & KPI Design: Interactive analytics with business-aligned metrics and refresh pipelines
+  
+- ML Fairness: AIF360, prompt-based LLM testing, mitigation metrics
 
 ---
 
