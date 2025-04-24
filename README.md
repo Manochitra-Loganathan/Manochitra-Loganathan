@@ -17,16 +17,22 @@ I’ve led projects that span:
 ----
 - ## 🧩 My Expertise
 
-- Database engineering across Oracle, Db2, PostgreSQL, SQL Server, MySQL  
-- HA/DR setups using HADR, AlwaysOn, Q Replication  
-- CI/CD pipelines for databases using SSDT, Azure DevOps, and ServiceNow  
-- Data migrations from legacy to cloud (AWS, Azure, GCP)  
-- Performance tuning, rollback automation, and audit readiness
-- 🚀 Cloud migration (Oracle, Db2 → PostgreSQL, Snowflake)
-- 🧩 BI automation using **SSIS, Power BI, SSRS, Informatica**
-- ⚙️ CI/CD for databases (SSDT, Azure DevOps, ServiceNow)
-- 📊 Dashboard design, performance tuning, and metric design
-- 🚦 Data Quality & Monitoring: SQL, Python, Splunk, Dynatrace  
+🧩 My Expertise
+Enterprise Database Engineering across Oracle, Db2, PostgreSQL, SQL Server, and MySQL
+
+High Availability & Disaster Recovery: HADR, AlwaysOn, and Q Replication implementations
+
+CI/CD Automation for database deployments using SSDT, Azure DevOps, and ServiceNow integration
+
+Cloud-First Migrations: Legacy-to-cloud transitions on AWS, Azure, and GCP with PostgreSQL and Snowflake
+
+BI & Reporting Automation: End-to-end reporting using SSIS, Power BI, SSRS, and Informatica
+
+Performance Optimization: Schema tuning, rollback planning, and audit-compliant delivery
+
+Monitoring & QA Frameworks: Proactive data quality checks using SQL, Python, Splunk, and Dynatrace
+
+Dashboard & KPI Design: Interactive analytics with business-aligned metrics and refresh pipelines
 
 ---
 
